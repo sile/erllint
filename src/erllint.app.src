@@ -1,0 +1,11 @@
+{application, erllint,
+ [
+  {description, "command line lint tool for elang"},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.

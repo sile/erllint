@@ -4,3 +4,8 @@
 /doc/
 /ebin/
 .dialyzer.plt
+deps/
+log/
+erl
+/erllint
+*.dump
